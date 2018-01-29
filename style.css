@@ -1,22 +1,19 @@
 body {	
-	background:url("img/фон 1.jpg") repeat fixed 100%;
+	background:url("img/фон 6.jpg") no-repeat center center fixed;
+	background-size:cover;
 	padding:0;
 	margin:0;
 } 
 
 .header {
-	background-color:black;
-	border:3px solid #6523FE;
-	margin-bottom:2px;
 	width:70%;
-	height:70px;
-	margin:auto;
+	height:65px;
+	margin:5 auto 0;
 	text-align:center;
 }
 
 .content {
 	color:white;
-	border:3px solid #6523FE;
 	margin-bottom:2px;
 	width:97.5%;
 	height:80%;
@@ -75,14 +72,17 @@ body {
 
 .button1 a {
 	color:white;
+	text-decoration:none;
 }
 
 .button2 a {
 	color:white;
+	text-decoration:none;
 }
 
 .button3 a {
 	color:white;
+	text-decoration:none;
 }
 
 .button-menu {
@@ -93,30 +93,19 @@ body {
 	border-radius:10px;
 }
 .button-menu a {
-	color:#7BFE50;
+	color:#FD00D3;
+	text-decoration:none;
 }
 
 .foto{
-	height:94%;
-	width:38%;
-    float:left;	
+	height:75%;
+	width:100%;	
 }
 
 .fil {
 	height:92%;
-	width:75%;
-	transform:translateX(33%);
-}
-
-.foto2{
-	height:94%;
-	width:38%;	
-    float:right;
-}
-
-.fil2 {
-	height:92%;
-	width:75%;	
+	width:35%;
+	transform:translateX(93%);
 }
 
 .button-video {
@@ -129,6 +118,11 @@ body {
 
 .button-video a {
 	color:white;
+	text-decoration:none;
+}
+
+.spisok {
+	font-size:20px;
 }
 
 

@@ -1,38 +1,26 @@
-body {	
-	background:url("img/111.jpg") no-repeat fixed 100%;	
+ body {	
+	background:url("img/111.jpg") no-repeat center center fixed;
+    background-size:cover;	
 	padding:0;
 	margin:0;
 } 
 
 .header {
-	background-color:black;
+    background-color:black;
 	border:3px solid #6523FE;
-	margin-bottom:2px;
 	width:70%;
-	height:70px;
-	margin:auto;
+	height:65px;
+	margin:5 auto 0;
 	text-align:center;
+	border-radius:10px;	
 }
 
 .content {
 	color:blue;
 	border:3px solid #6523FE;
-	margin-bottom:2px;
-	width:70%;
+	width:97.5%;
 	height:80%;
-	float:left;
-	margin-top:2px;
-}
-
-.sidebar {
-	color:#E1FFFA;
-	border:3px solid #6523FE;
-	margin-bottom:2px;
-	height:80%;
-	width:28%;
-	float:right;
-	margin-top:2px;
-	text-align:center;
+	margin: 2 auto 2;
 }
 
  .clear { 
@@ -121,7 +109,7 @@ body {
 
 .stan:hover {
 	opacity:1;
-	transform:scale(1.5);
+	transform:scale(1.8);
 	transition-delay:0.2s;
 }
 
@@ -131,7 +119,7 @@ body {
 
 .jim:hover {
 	opacity:1;
-	transform:scale(1.4);
+	transform:scale(1.8);
 	transition-delay:0.2s;
 }
 
@@ -141,7 +129,7 @@ body {
 
 .prised:hover {
 	opacity:1;
-	transform:scale(1.4);
+	transform:scale(1.8);
 	transition-delay:0.2s;
 }
 
@@ -154,18 +142,22 @@ body {
 }
 .button-menu a {
 	color:white;
+	text-decoration:none;
 }
 
 .button1 a {
 	color:white;
+	text-decoration:none;
 }
 
 .button2 a {
 	color:white;
+	text-decoration:none;
 }
 
 .button3 a {
-	color:#7BFE50;
+	color:#FD00D3;
+	text-decoration:none;
 }
 
 .упражнение {
@@ -182,6 +174,7 @@ body {
 
 .button-video a {
 	color:white;
+	text-decoration:none;
 }
 
 

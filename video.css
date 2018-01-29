@@ -1,32 +1,28 @@
 body {
-	background-color:#94C9FE;
+	background:url("img/фон 6.jpg") no-repeat center center fixed;
+	background-size:cover;
 	padding:0;
 	margin:0;
 }
 
 .header {
-	background-color:black;
-	border:3px solid #6523FE;
 	width:70%;
-	height:70px;
-	margin:auto;
-	text-align:center;
+	height:65px;
+	margin:5 auto 0;
+	text-align:center;	
 }
 
 .content {
 	color:blue;
-	border:3px solid #6523FE;
 	width:97.5%;
 	height:80%;
     margin:2 auto;
-	background-color:red;
 }
 
  .clear { 
     clear:both;
 	color:white;
 	border:3px solid #6523FE;
-	margin-bottom:2px;
 	width:99%;
 	height:10%;
 	text-align:center;
@@ -71,14 +67,17 @@ body {
 
 .button1 a {
 	color:white;
+	text-decoration:none;
 }
 
 .button2 a {
 	color:white;
+	text-decoration:none;
 }
 
 .button3 a {
 	color:white;
+	text-decoration:none;
 }
 
 .button-menu {
@@ -90,6 +89,7 @@ body {
 }
 .button-menu a {
 	color:white;
+	text-decoration:none;
 }
 
 .button-video {
@@ -101,7 +101,8 @@ body {
 }
 
 .button-video a {
-	color:#7BFE50;
+	color:#FD00D3;
+	text-decoration:none;
 }
 
 .table {
@@ -127,7 +128,6 @@ body {
 	height:100%;
 	width:100%;
 }
-
 
 
 
