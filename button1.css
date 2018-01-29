@@ -1,5 +1,5 @@
  body {	
-	background:url("img/фон 1.jpg") no-repeat fixed 100%;	
+	background:url("img/фон 1.jpg") repeat fixed 100%;	
 	padding:0;
 	margin:0;
 } 
@@ -86,13 +86,11 @@
 	margin-top:22px;
 	background-color:#7757F7;
 	border-radius:10px;
-	color:white;
 }
 .button2 {
     background-color:#7757F7;
 	margin-top:22px;
 	border-radius:10px;
-	color:white;
 }
 
 .button3 {
@@ -101,7 +99,6 @@
 	margin-top:22px;
 	background-color:#7757F7;
 	border-radius:10px;
-	color:white;
 }
 
 .button1:hover {
@@ -154,7 +151,7 @@
 }
 
 .button1 a {
-	color:white;
+	color:#7BFE50;
 }
 
 .button2 a {
@@ -171,7 +168,6 @@
 	margin-top:22px;
 	background-color:#7757F7;
 	border-radius:10px;
-	color:white;
 }
 .button-menu a {
 	color:white;
@@ -183,7 +179,6 @@
 	margin-top:22px;
 	background-color:#7757F7;
 	border-radius:10px;
-	color:white;
 }
 
 .button-video a {

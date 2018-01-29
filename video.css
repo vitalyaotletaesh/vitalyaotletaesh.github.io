@@ -39,13 +39,11 @@ body {
 	margin-top:22px;
 	background-color:#7757F7;
 	border-radius:10px;
-	color:white;
 }
 .button2 {
     background-color:#7757F7;
 	margin-top:22px;
 	border-radius:10px;
-	color:white;
 }
 
 .button3 {
@@ -54,7 +52,6 @@ body {
 	margin-top:22px;
 	background-color:#7757F7;
 	border-radius:10px;
-	color:white;
 }
 
 .button1:hover {
@@ -90,7 +87,6 @@ body {
 	margin-top:22px;
 	background-color:#7757F7;
 	border-radius:10px;
-	color:white;
 }
 .button-menu a {
 	color:white;
@@ -102,11 +98,10 @@ body {
 	margin-top:22px;
 	background-color:#7757F7;
 	border-radius:10px;
-	color:white;
 }
 
 .button-video a {
-	color:white;
+	color:#7BFE50;
 }
 
 .table {
